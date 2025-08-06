@@ -2,6 +2,7 @@ import random
 
 # wlecome
 print("______Welcome to The Game______")
+print("Rock Paper Srissors Game")
 
 # 1 for rock, 0 for paper, -1 for scissors 
 print("use 1 for Rock, 0 for Paper, -1 for Scissors")
