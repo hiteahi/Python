@@ -3,8 +3,8 @@ import random
 # wlecome
 print("______Welcome to The Game______")
 
-# 1 for rock, 0 for paper, -1 for scorreir
-print("use 1 for Rock, 0 for Paper, -1 for Scorrier")
+# 1 for rock, 0 for paper, -1 for scissors 
+print("use 1 for Rock, 0 for Paper, -1 for Scissors")
 
     # choise
 user = int(input("enter your choose: "))
